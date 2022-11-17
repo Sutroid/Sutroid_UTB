@@ -1,0 +1,38 @@
+{
+    "Bot_Version": "Release 1.1.0",
+    "Tech_Admin": "@sutro_id",
+    "Bot_Token": "2107192629:AAFB-lqEj3I34lZJxUE_uPn5q-IWac8fhF8",
+    "Weather_Token": "6e4f08ad47cd95136db34accd96370bf",
+    "Tech_Admin_ID": [
+        729367106,
+        1755170051
+    ],
+    "Group_List": {
+        "-1001442162105": {
+            "Group_Name": "Бендеро",
+            "Set_City": "запорожье",
+            "Group_Admin": 619402074,
+            "Group_Link": "<a href='https://t.me/+k5jj6aG-Lbs4ZGYy'>click</a>",
+            "Group_User": {
+                "1755170051": "Tech Admin",
+                "782400686": "Димоон",
+                "889378281": "Саня",
+                "5042077975": "Sutro"
+            }
+        },
+        "-1001741520053": {
+            "Group_Name": "Betti_Sutro",
+            "Set_City": "запорожье",
+            "Group_Admin": 957365735,
+            "Group_Link": "<a href='https://t.me/+iGreo18XYxViNDJi'>click</a>",
+            "Group_User": {}
+        },
+        "-1001683172167": {
+            "Group_Name": "Кабыш",
+            "Set_City": "None",
+            "Group_Admin": 906465816,
+            "Group_Link": "<a href='https://t.me/+lzJXKQqtxTQyOTgy'>click</a>",
+            "Group_User": {}
+        }
+    }
+}
